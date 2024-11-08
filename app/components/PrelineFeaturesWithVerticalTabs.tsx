@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from "next/image";
 
 function PrelineFeaturesWithVerticalTabs() {
     return (
@@ -148,10 +149,11 @@ function PrelineFeaturesWithVerticalTabs() {
                                     role="tabpanel"
                                     aria-labelledby="tabs-with-card-item-1"
                                 >
-                                    <img
-                                        className="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/20"
-                                        src="https://images.unsplash.com/photo-1605629921711-2f6b00c6bbf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80"
-                                        alt="Features Image"
+                                    <Image
+                                        src="/unnamed2.png"
+                                        width={500}
+                                        height={500}
+                                        alt="Picture of the author"
                                     />
                                 </div>
                                 <div
@@ -160,10 +162,11 @@ function PrelineFeaturesWithVerticalTabs() {
                                     role="tabpanel"
                                     aria-labelledby="tabs-with-card-item-2"
                                 >
-                                    <img
-                                        className="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/20"
-                                        src="https://images.unsplash.com/photo-1665686306574-1ace09918530?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80"
-                                        alt="Features Image"
+                                    <Image
+                                        src="/unnamed2.png"
+                                        width={500}
+                                        height={500}
+                                        alt="Picture of the author"
                                     />
                                 </div>
                                 <div
@@ -172,10 +175,11 @@ function PrelineFeaturesWithVerticalTabs() {
                                     role="tabpanel"
                                     aria-labelledby="tabs-with-card-item-3"
                                 >
-                                    <img
-                                        className="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/20"
-                                        src="https://images.unsplash.com/photo-1598929213452-52d72f63e307?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80"
-                                        alt="Features Image"
+                                    <Image
+                                        src="/unnamed2.png"
+                                        width={500}
+                                        height={500}
+                                        alt="Picture of the author"
                                     />
                                 </div>
                             </div>

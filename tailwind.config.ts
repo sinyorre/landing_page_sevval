@@ -17,6 +17,6 @@ const config: Config = {
     },
   },
   // eslint-disable-next-line @typescript-eslint/no-require-imports
-  plugins: [require('preline/plugin')],
+  plugins: [require('preline/plugin'), require('tailwindcss-animated')],
 };
 export default config;

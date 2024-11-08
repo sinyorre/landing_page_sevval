@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from "next/image";
 
 function PrelineTimeline() {
     return (
@@ -112,8 +113,8 @@ function PrelineTimeline() {
                             Senior Software Engineer at Mailchimp
                         </p>
                         <p className="mt-1 text-sm text-gray-600 dark:text-neutral-400">
-                            This is an excellent company and they reward their employees. It's
-                            becoming a big company but it's still private, so the culture is as
+                            This is an excellent company and they reward their employees. It s
+                            becoming a big company but it s still private, so the culture is as
                             good as it gets at 1,000+ employees if you ask me. Managers are still
                             adapting to the growth I think, but everyone has to. Great place to
                             work.
@@ -125,10 +126,11 @@ function PrelineTimeline() {
                                 href="#"
                             >
                                 <div className="relative flex items-center overflow-hidden">
-                                    <img
-                                        className="w-32 sm:w-48 h-full absolute inset-0 object-cover rounded-s-lg"
-                                        src="https://images.unsplash.com/photo-1661956600655-e772b2b97db4?q=80&w=560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                                        alt="Blog Image"
+                                    <Image
+                                        src="/unnamed2.png"
+                                        width={500}
+                                        height={500}
+                                        alt="Picture of the author"
                                     />
                                     <div className="grow p-4 ms-32 sm:ms-48">
                                         <div className="min-h-24 flex flex-col justify-center">
@@ -137,7 +139,7 @@ function PrelineTimeline() {
                                             </h3>
                                             <p className="mt-1 text-sm text-gray-500 dark:text-neutral-500">
                                                 Produce professional, reliable streams easily leveraging
-                                                Mailchimp's innovative broadcast studio.
+                                                Mailchimp s innovative broadcast studio.
                                             </p>
                                         </div>
                                     </div>
