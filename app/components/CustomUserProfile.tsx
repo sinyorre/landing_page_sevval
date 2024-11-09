@@ -5,12 +5,12 @@ const CustomUserProfile = () => {
     return (
         <>
             {/* Hero */}
-            <div className="w-full mx-auto mt-5 p-4 shadow-md rounded-md">
+            <div className="w-full mx-auto mt-5 p-4">
                 {/* Grid */}
                 <div className="grid md:grid-cols-2 md:items-center">
                     <div className="flex items-center justify-center">
                         <Image
-                            src="/user_example.jpeg"
+                            src="/unnamed-removebg.png"
                             width={600}
                             height={800}
                             alt="Picture of the author"
