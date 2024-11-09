@@ -29,7 +29,7 @@ function PrelineHeroSection() {
                     {/* End Col */}
                     <div className="relative ms-4">
                         <Image
-                            src="/unnamed-removebg.png"
+                            src="/unnamed.jpg"
                             width={500}
                             height={500}
                             alt="Picture of the author"
