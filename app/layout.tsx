@@ -3,7 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import PrelineScript from "@/app/components/PrelineScript";
 import PrelineFooter from "@/app/components/PrelineFooter";
-import FlexiWindNavbar from "@/app/components/FlexiWindNavbar";
+import PrelineNavbar from "@/app/components/PrelineNavbar";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -31,7 +31,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <FlexiWindNavbar/>
+        <PrelineNavbar/>
         {children}
         <PrelineFooter/>
       </body>
