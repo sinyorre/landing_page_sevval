@@ -13,7 +13,7 @@ function ParallaxHero() {
                     <p>
                         “İnsan; Avukatı, tutacağı herhangi bir işin istikbalini gösteren ışığı, düştüğü herhangi bir
                         felaketin kurtarıcısı, bir hayatı karanlık görmekten doğan ümitsizlik buhranlarının gidericisi;
-                        yaralanan yüreğinin dermanı, kınlan izzeti nefsinin tamircisi, tehlikede gördüğü hayatının
+                        yaralanan yüreğinin dermanı, kırılan izzeti nefsinin tamircisi, tehlikede gördüğü hayatının
                         koruyucusu tanır”
                     </p>
                     <p className="mt-6 text-lg">

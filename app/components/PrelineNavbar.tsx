@@ -4,7 +4,7 @@ import Link from "next/link";
 function PrelineNavbar() {
     return (
         <header
-            className="relative flex flex-wrap sm:justify-start sm:flex-nowrap w-full bg-white text-sm py-3 dark:bg-neutral-800 shadow">
+            className="relative flex flex-wrap sm:justify-start sm:flex-nowrap w-full bg-white text-sm py-3 dark:bg-neutral-800">
             <nav className="container mx-auto sm:flex sm:items-center sm:justify-between">
                 <div className="flex items-center justify-between">
                     <Link
