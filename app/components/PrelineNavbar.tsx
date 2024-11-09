@@ -12,7 +12,8 @@ function PrelineNavbar() {
                         href="/"
                         aria-label="Brand"
                     >
-                        <svg
+                        Şevval Kurular
+                        {/*<svg
                             xmlns="http://www.w3.org/2000/svg"
                             xmlnsXlink="http://www.w3.org/1999/xlink"
                             width={415}
@@ -182,7 +183,7 @@ function PrelineNavbar() {
                                     </g>
                                 </g>
                             </g>
-                        </svg>
+                        </svg>*/}
                     </Link>
                     <div className="sm:hidden">
                         <button
