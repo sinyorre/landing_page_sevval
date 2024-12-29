@@ -11,7 +11,7 @@ function PrelineFooter() {
                         href="#"
                         aria-label="Brand"
                     >
-                        Şevval Kurular
+                        Av. Şevval Kurular, Ankara
                     </a>
                 </div>
                 {/* End Col */}

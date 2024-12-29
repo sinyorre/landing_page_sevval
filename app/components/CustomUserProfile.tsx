@@ -18,50 +18,67 @@ const CustomUserProfile = () => {
                         />
                     </div>
                     <div>
-                        <p className="mt-3 text-lg text-gray-800 dark:text-neutral-400">
-                            Avukat [Ad Soyad]
+                        <h1 className="mt-3 text-4xl text-gray-800 dark:text-neutral-400 font-bold">Avukat Şevval
+                            Kurular</h1>
+                        <h2 className="mt-3 text-base text-gray-800 dark:text-neutral-400 italic">Liberta Avukatlık ve
+                            Arabuluculuk Bürosu</h2>
 
-                            1990 yılında İstanbul’da doğan Avukat [Ad Soyad], hukuk eğitimini [Üniversite Adı] Hukuk
-                            Fakültesi’nde başarıyla tamamlayarak 2013 yılında mezun olmuştur. Mezuniyetinin ardından,
-                            Türkiye Barolar Birliği’ne bağlı olarak İstanbul Barosu’na kaydolan Avukat [Ad Soyad],
-                            alanında uzmanlaşmak için pek çok önemli hukuk bürosunda deneyim kazanmış ve kendine özgü
-                            başarılı bir kariyer oluşturmuştur.
+                        <p className="mt-3 text-lg text-gray-800 dark:text-neutral-400 text-justify">
+                            Ben <span className="font-bold">Şevval Kurular</span>, 5 Mayıs 1995 doğumluyum ve 2017 yılında Gazi Üniversitesi Hukuk
+                            Fakültesi’nden mezun oldum. Hukuk dünyasına olan ilgim, beni her zaman insan haklarını
+                            savunmaya, adaletin sağlanmasına katkıda bulunmaya ve müvekkillerimin haklarını en güçlü
+                            şekilde savunmaya yönlendirdi. Bu tutkumla 2018 yılında Ankara Barosu’na bağlı olarak yasal
+                            stajımı tamamladım. Staj döneminde edindiğim deneyimler, beni mesleki anlamda derinlemesine
+                            bir anlayışla donattı ve profesyonel kariyerimin temellerini attı.
+                        </p>
 
-                            İş hukuku, ticaret hukuku, gayrimenkul hukuku ve medeni hukuk gibi geniş bir yelpazede
-                            uzmanlık kazanmış olan Avukat [Ad Soyad], müvekkillerine etkili ve çözüm odaklı bir hukuki
-                            destek sunmaktadır. Özellikle şirketlere yönelik hukuki danışmanlık hizmetleri sunarak iş
-                            dünyasında karşılaşılabilecek hukuki riskleri en aza indirgemek ve önleyici hukuk
-                            uygulamaları geliştirmek konusunda büyük bir tecrübeye sahiptir. Ticari davalar, sözleşme
-                            hazırlıkları, işçi-işveren ilişkileri ve icra takibi gibi alanlarda başarılı sonuçlar elde
-                            ederek müvekkil memnuniyeti sağlamayı başarmıştır.
+                        <p className="mt-3 text-lg text-gray-800 dark:text-neutral-400 text-justify">
+                            2018-2022 yılları arasında çalıştığım hukuk bürosunda, gayrimenkul hukuku, idare hukuku,
+                            icra hukuku ve medeni hukuk alanlarında yönetici avukat olarak görev yaptım. Bu dönemde,
+                            özellikle mülk sahipleri, kiracılar, şirketler ve kamu kuruluşlarıyla yapılan anlaşmalarda,
+                            karmaşık hukuki meselelerin çözümü konusunda kapsamlı bir bilgi ve tecrübe kazandım. İcra ve
+                            iflas hukuku süreçleri, hem alacaklılar hem de borçlular için adaletin sağlanmasında ne
+                            kadar kritik bir rol oynadığını bana daha da net bir şekilde gösterdi.
+                        </p>
 
-                            Hukuki bilgi ve becerilerini güncel tutmak adına ulusal ve uluslararası pek çok seminer ve
-                            konferansa katılan Avukat [Ad Soyad], sürekli gelişimi ve eğitimi ilke edinmiştir. Aynı
-                            zamanda, [Uzmanlık Alanı] üzerine çeşitli makaleler yayımlayarak hem meslektaşlarına hem de
-                            hukuk alanına ilgi duyan kişilere katkı sağlamaktadır.
+                        <p className="mt-3 text-lg text-gray-800 dark:text-neutral-400 text-justify">
+                            Bu birikim ve deneyimle 2022 yılında kendi ofisimi kurarak bağımsız bir şekilde
+                            çalışmalarımı sürdürmeye başladım. Şu anda hukuki hizmetlerimi, özellikle kira hukuku, idare
+                            hukuku, aile hukuku ve arabuluculuk alanlarında sunmaktayım. Kira hukuku alanında, kiracı ve
+                            mal sahipleri arasında yaşanan anlaşmazlıkların çözümünde, her iki tarafın haklarını dengeli
+                            ve adil bir şekilde savunarak, sorunsuz bir çözüm süreci yaratmayı hedefliyorum. İdare
+                            hukuku alanında, kamu ve özel sektör arasındaki ilişkilerde yaşanan hukuki meseleleri
+                            çözerek, müvekkillerimin en iyi sonuçları almasını sağlıyorum.
+                        </p>
 
-                            Müvekkil haklarını korumada titizlik gösteren Avukat [Ad Soyad], hukuki süreçlerde müvekkil
-                            ile şeffaf bir iletişim içinde olarak güvenilir bir temsil sunar. Her davada etkin bir
-                            strateji geliştiren Avukat [Ad Soyad], adaletin sağlanması noktasında etik değerlere bağlı
-                            kalmaktadır. Kişisel olarak toplumsal sorumluluk projelerine gönüllü destek veren ve hukuk
-                            alanındaki yeni nesillere ilham vermeyi hedefleyen Avukat [Ad Soyad], aynı zamanda çeşitli
-                            sivil toplum kuruluşlarıyla iş birliği içerisinde çalışmaktadır.
+                        <p className="mt-3 text-lg text-gray-800 dark:text-neutral-400 text-justify">
+                            Aile hukuku da benim için büyük bir öneme sahiptir. Aile içi ilişkilerde, duygusal ve maddi
+                            bağların kesilmesi, ayrıcalıklı bir hassasiyet gerektirir. Bu alandaki davalarımda,
+                            müvekkillerime empatiyle yaklaşarak, en doğru çözümü bulmak için çalışıyorum. Ayrıca,
+                            arabuluculuk alanında da aktif olarak yer almakta, taraflar arasında anlaşmazlıkların daha
+                            hızlı ve dostane yollarla çözülmesine katkı sağlamaktayım.
+                        </p>
 
-                            Güçlü müzakere yeteneği, analitik düşünce becerisi ve ayrıntılara verdiği önemle fark
-                            yaratan Avukat [Ad Soyad], kariyerine daha büyük başarılar katmayı ve müvekkil memnuniyetini
-                            en üst düzeye çıkarmayı amaçlamaktadır.
+                        <p className="mt-3 text-lg text-gray-800 dark:text-neutral-400 text-justify">
+                            Hukuki süreçlerin karmaşıklığı, her zaman doğru stratejilerin ve uzmanlığın gerekliliğini
+                            ortaya koymaktadır. Ben de bu anlayışla, müvekkillerimin her birine özel çözümler sunmak
+                            için titizlikle çalışıyor ve her bir davada en iyi sonuçları almak adına özveriyle mücadele
+                            ediyorum.
+                        </p>
 
-                            Uzmanlık Alanları
+                        <p className="mt-3 text-lg text-gray-800 dark:text-neutral-400 text-justify">
+                            Mesleki sorumluluğumun farkında olarak, her bir müvekkilime saygı, güven ve şeffaflık
+                            ilkelerine dayalı bir hizmet sunmayı amaçlıyorum. Her durumda, müvekkillerimin haklarını en
+                            güçlü şekilde savunmak, onları doğru bir şekilde yönlendirmek ve hukuki süreçlerinde
+                            yanlarında olmak en büyük önceliğimdir. Hukuk büromda, her bir müvekkilime, onların
+                            ihtiyaçlarına göre kişiye özel hukuki çözümler sunarak, adaletin sağlanmasına katkıda
+                            bulunuyorum.
+                        </p>
 
-                            İş Hukuku
-                            Ticaret Hukuku
-                            Gayrimenkul Hukuku
-                            Aile Hukuku
-                            Ceza Hukuku
-                            İletişim
-                            Telefon: [Telefon Numarası]
-                            E-posta: [E-posta Adresi]
-                            Adres: [Ofis Adresi]
+                        <p className="mt-3 text-lg text-gray-800 dark:text-neutral-400 text-justify">
+                            Amacım, profesyonellikten ödün vermeden, her bir müvekkilimin hukuki süreçlerinde doğru
+                            bilgi ve en etkili çözüm önerileriyle yanlarında olmak, hukuki meselelerini başarıyla
+                            sonuçlandırmaktır.
                         </p>
                     </div>
                 </div>

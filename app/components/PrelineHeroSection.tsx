@@ -16,7 +16,7 @@ function PrelineHeroSection() {
                             Şevval Kurular
                         </h1>
                         <p className="mt-3 text-lg text-gray-800 dark:text-neutral-400 animate-fade-right animate-once text-center italic">
-                            Sayfama Hoşgeldiniz
+                            Merhaba, ben Şevval Kurular.
                         </p>
                         <div className="text-center mt-4">
                             <Link
