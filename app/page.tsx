@@ -7,7 +7,7 @@ import {Metadata} from "next";
 
 export const metadata: Metadata = {
     title: 'Ankara, Avukat Şevval Kurular',
-    description: 'Ankara Liberta Avukatlık ve Arabuluculuk Bürosu, Avukat Şevval Kurular, gayrimenkul hukuku, idare hukuku, icra hukuku, medeni hukuk, kira hukuku, aile hukuku ve benzeri alanlarda tüm hukuki süreçlerde yanınızdayım. Bilgi için +90 543 371 2791',
+    description: 'Ankara Liberta Avukatlık ve Arabuluculuk Bürosu, Avukat Şevval Kurular, gayrimenkul hukuku, idare hukuku, icra hukuku, medeni hukuk, kira hukuku, aile hukuku ve benzeri alanlarda tüm hukuki süreçlerde yanınızdayım. Bilgi için +90 543 171 2791',
 }
 
 export default function Home() {

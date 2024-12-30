@@ -18,7 +18,7 @@ const FlexWindContentSection = () => {
                         </span>
                             <div className="space-y-0.5 flex flex-col flex-1">
                                 <p className="text-foreground">İletişim Numarası</p>
-                                <p className="font-semibold text-gray-900 dark:text-white text-lg">+90 543 371 2791</p>
+                                <p className="font-semibold text-gray-900 dark:text-white text-lg">+90 543 171 2791</p>
                             </div>
                         </a>
                         <a href="mailto:" className="flex gap-x-6 items-center" rel="noreferer" target="_blank">
